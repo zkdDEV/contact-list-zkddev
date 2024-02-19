@@ -14,7 +14,7 @@ const ContactList = () => {
         <S.Title>Lista de contatos:</S.Title>
         <div>
           <S.AddButton to="/new">+ Adicionar Contato</S.AddButton>
-          <S.ThemeButton>Trocar Tema</S.ThemeButton>
+          {/* <S.ThemeButton>Trocar Tema</S.ThemeButton> */}
         </div>
       </S.Options>
       <S.Cards>

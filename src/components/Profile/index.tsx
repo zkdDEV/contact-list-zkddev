@@ -69,7 +69,7 @@ const Profile = ({
             onChange={(evento) => setName(evento.target.value)}
             value={name}
             id="nome"
-            disabled={!isEditing}
+            disabled
           />
 
           <Label htmlFor="email">E-mail:</Label>

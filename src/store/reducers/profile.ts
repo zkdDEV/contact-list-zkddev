@@ -25,7 +25,7 @@ const initialState: ProfileState = {
       id: 3,
       nickname: 'Barril',
       name: 'Paulo Vitor',
-      email: 'matheusstang15@gmail.com',
+      email: 'paulovitor132@gmail.com',
       mobileNumber: '6237463628'
     }
   ]

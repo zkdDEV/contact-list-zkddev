@@ -11,6 +11,7 @@ class ClassProfile {
     email: string,
     numeroCelular: string,
     id: number
+    
   ) {
     ;(this.nickname = apelido),
       (this.name = nome),
